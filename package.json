@@ -41,7 +41,7 @@
   "main": "main.js",
   "types": "./interface.d.ts",
   "engines": {
-    "node": "18.x"
+    "node": ">=12"
   },
   "lint-staged": {
     "*.js": [
