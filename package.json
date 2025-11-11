@@ -1,4 +1,8 @@
-{
+{"packageManager": "yarn@1.22.19",
+"resolutions": {},
+"publishConfig": {
+  "registry": "https://registry.npmmirror.com/"
+},
   "name": "NeteaseCloudMusicApi",
   "version": "4.8.9",
   "description": "网易云音乐 NodeJS 版 API",
